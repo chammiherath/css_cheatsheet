@@ -10,6 +10,11 @@ body{
     /* same as above but in shorter way*/
     font: normal 12px Arial, Helvetica, sans-serif;
     line-height: 1.6em;
+    margin:0;
 
 }
 
+.box-1{
+    background-color: #333333;
+
+}
