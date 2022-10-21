@@ -14,7 +14,12 @@ body{
 
 }
 
+.container{
+    width:80%;
+    margin:auto;
+}
+
 .box-1{
     background-color: #333333;
-
+    color:#ffffff;
 }
