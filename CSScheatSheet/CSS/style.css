@@ -47,5 +47,27 @@ body{
     font-style: italic;
     text-decoration-line: underline;
     text-transform: uppercase;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.25em;
+}
+
+.box-2{
+
+    border: 2px dotted #ccc;
+    padding: 20px;
+    margin: 20px 0;
+
+
+}
+
+.categories{
+
+    border: 2px #ccc solid;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+.categories h3{
+
+    text-align: center;
 }
