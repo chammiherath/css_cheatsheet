@@ -48,3 +48,15 @@ body{
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
+
+.categories{
+    border: 1px #ccc solid;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+.categories h2{
+
+    text-align: center;
+}
